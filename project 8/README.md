@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# 📷 圖片分類網頁應用（React 專案）
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🌐 中文（Chinese）
 
-## Available Scripts
+這是一個使用 React 打造的網頁應用程式，主要用於展示圖片分類或標註的功能。使用者可以在前端介面上進行圖片選擇、分類、顯示等操作。此專案展示了我對於前端框架 React 的理解與實作能力，並可作為個人作品集使用。
 
-In the project directory, you can run:
+### 🔧 使用技術
+- React.js
+- JavaScript (ES6)
+- CSS / HTML5
+- Node.js (Create React App)
 
-### `npm start`
+### 🚀 如何啟動
+```bash
+npm install
+npm start
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🇺🇸 English
 
-### `npm test`
+This is a simple React-based web application designed for image classification or labeling tasks. It allows users to select and display images through a clean and responsive UI. This project demonstrates my ability to work with React, manage states, and implement interactive front-end logic. Ideal for use as a portfolio project.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🔧 Tech Stack
+- React.js
+- JavaScript (ES6)
+- CSS / HTML5
+- Node.js (Create React App)
 
-### `npm run build`
+### 🚀 Getting Started
+```bash
+npm install
+npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🇯🇵 日本語（Japanese）
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+これは React を用いて作成された画像分類用の Web アプリケーションです。ユーザーは画像の選択や表示ができるシンプルで使いやすい UI を備えています。React の基本操作や状態管理の知識を活かしたプロジェクトで、ポートフォリオとしても活用できます。
 
-### `npm run eject`
+### 🔧 使用技術
+- React.js
+- JavaScript (ES6)
+- CSS / HTML5
+- Node.js（Create React App 使用）
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 🚀 起動方法
+```bash
+npm install
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🙋‍♂️ 作者 / Author / 作者
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- GitHub: https://github.com/hsucs2712
+- 專案連結 / Project URL: https://github.com/hsucs2712/pictureWeb/tree/main/project%208
